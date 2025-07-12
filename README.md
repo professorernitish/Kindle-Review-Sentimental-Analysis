@@ -10,7 +10,7 @@ Tech Stack: Python, Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn
 
 Models Used:
 
-Naive Bayes
+<tr>Naive Bayes<tr></tr>
 
 
 Feature Extraction:
